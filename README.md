@@ -1,2 +1,2 @@
-# Odin_Recipes
-Website showcasing a few of my favorite delicacies 
+# odin_recipes
+A short website that will showcase my favorite recipes. 
